@@ -1,4 +1,4 @@
-use chrono::{NaiveDateTime};
+use chrono::NaiveDateTime;
 use serde::{Deserialize, Serialize};
 use diesel::{Queryable, Insertable};
 use crate::schema::students;
