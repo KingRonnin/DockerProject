@@ -1,0 +1,12 @@
+/home/ronaldo/Repos/DockerProject/rusty-rocket/target/debug/deps/libsqlx-fa97c760d8469a05.rmeta: /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md
+
+/home/ronaldo/Repos/DockerProject/rusty-rocket/target/debug/deps/sqlx-fa97c760d8469a05.d: /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md
+
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md:

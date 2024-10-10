@@ -1,0 +1,12 @@
+/home/ronaldo/Repos/DockerProject/rusty-rocket/target/debug/deps/libcookie-a59d34875b4860ff.rmeta: /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs
+
+/home/ronaldo/Repos/DockerProject/rusty-rocket/target/debug/deps/cookie-a59d34875b4860ff.d: /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs /home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs
+
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs:
+/home/ronaldo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs:
